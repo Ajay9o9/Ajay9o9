@@ -1,5 +1,5 @@
 ### Hi there 👋
-**Ajay K V** is a ✨ Programming lover ✨ who loves to teach others and learn new things related to programming.
+I'm **Ajay K V**, a ✨ Programmmer ✨ who loves to code all day and night and also loves to teach others and learn new things related to coding.
 
 
 <div id="header" align="center">
@@ -14,8 +14,8 @@
 <div>
   
 - 🔭 I’m currently working as ✨ Senior Flutter Developer and Android Developer✨
-- 🌱 I’m currently learning Machine Learning And AI
-- 💬 Ask me about Flutter, Web development, Python
+- 🌱 I’m currently doing PGP in AIML from University Of Texas 
+- 💬 Ask me about Flutter, Web development, Python and Machine Learning
 - 📫 How to reach me: Below Links
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iamajaykv/">
