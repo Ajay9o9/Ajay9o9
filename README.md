@@ -21,7 +21,7 @@ I'm **Ajay K V**, a ✨ Programmmer ✨ who loves to code all day and night and 
   <a href="https://www.linkedin.com/in/iamajaykv/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UC2NM7zDY40Y7djGgk4GP4iA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://twitter.com/ItsmeAjayKV">
