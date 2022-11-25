@@ -73,13 +73,22 @@ I like to work out hard when it comes to coding.
 &nbsp;
 
 
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Ajay9o9&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
+
 
 &nbsp;
+
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajay9o9&theme=radical"/>
+</p>
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ajay9o9&show_icons=true&theme=radical" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay9o9&theme=radical" />
+</p>
+
+
 
 <div align="center">  
   <img src ="https://i.imgur.com/PqoavY9.gif"/>
