@@ -3,7 +3,14 @@ I'm **Ajay K V**, a ✨ Programmmer ✨ who loves to code all day and night and 
 
 
 ## About ME 💬 :
-I like to work out hard when it comes to coding.
+- 🔭 I like to work out hard when it comes to coding. Web dev --> Android dev --> Flutter dev.
+- I have been been coding for almost 7 years, working for 5 years, currently working as ✨ Senior/Lead flutter dev ✨. 
+- I also know laravel, django backend development, little bit of node-js.
+- In frontend angular is my goto, although for python i go with streamlit or Gradio. 
+- Im currently learning Machine learning and Aritificial Intelligence, here is my portfolio [AI- Portfolio](https://eportfolio.mygreatlearning.com/ajay-k-v)
+- I know full-stack development with the above combinations. 
+- I have a youtube channel called CodingSalad [CodingSalad](https://www.youtube.com/@codingsalad/videos)
+
 <div id="head_" align ="center">
   <img src="https://i.imgur.com/0zT5B10.gif" width ="520"/>
   </div>
@@ -16,7 +23,6 @@ I like to work out hard when it comes to coding.
 &nbsp;
 <div>
   
-- 🔭 I’m currently working as ✨ Senior Flutter Developer and Android Developer✨
 - 🌱 I’m currently doing PGP in AIML from University Of Texas 
 - 💬 Ask me about Flutter, Web development, Python and Machine Learning
 - 📫 How to reach me: Below Links
