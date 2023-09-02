@@ -1,15 +1,26 @@
 ## Hi there 👋
-I'm **Ajay K V**, a ✨ Programmmer ✨ who loves to code all day and night and also loves to teach others and learn new things related to coding.
 
 
-## About ME 💬 :
-- 🔭 I like to work out hard when it comes to coding. Web dev --> Android dev --> Flutter dev.
-- I have been been coding for almost 7 years, working for 5 years, currently working as ✨ Senior/Lead flutter dev ✨. 
-- I also know laravel, django backend development, little bit of node-js.
-- In frontend angular is my goto, although for python i go with streamlit or Gradio. 
-- Im currently learning Machine learning and Aritificial Intelligence, here is my portfolio [AI- Portfolio](https://eportfolio.mygreatlearning.com/ajay-k-v)
-- I know full-stack development with the above combinations. 
-- I have a youtube channel called CodingSalad [CodingSalad](https://www.youtube.com/@codingsalad/videos)
+## Hello, World! 👋
+
+I'm **Ajay K V**, a seasoned programmer with an insatiable passion for coding. Over the past 7 years, my hands have danced across a multitude of keyboards, breathing life into projects across Flutter, Angular, Laravel, Django, and more.
+
+## About Me 💬
+- 🛠 **Versatility in Action**: From Web Development to Android, and currently excelling as a **Senior/Lead Flutter Developer**, my tech journey is ever-expanding.
+  
+- 📈 **Seasoned Coder**: With 7 years of coding and 5 years in the professional world, my expertise and enthusiasm are my trademarks.
+  
+- 🌐 **Backend Maestro**: Laravel, Django, and a sprinkle of Node.js—my backend skills provide a robust foundation for full-circle development.
+  
+- 🖥 **Frontend Affinities**: Angular is my go-to for frontend, while Streamlit and Gradio are my Pythonic choices.
+  
+- 🤖 **AI Enthusiast**: I'm currently diving into the realms of Machine Learning and Artificial Intelligence. Witness my evolution in my [AI-Portfolio](https://eportfolio.mygreatlearning.com/ajay-k-v).
+  
+- 🎙 **Knowledge Sharing**: Visit my YouTube channel, [CodingSalad](https://www.youtube.com/@codingsalad/videos), to get a taste of my coding escapades and learn from them.
+  
+- 🌟 **Full-Stack Mastery**: Flutter, Angular, Laravel, Django—you name it, I can handle it. Yes, I'm a full-stack developer.
+
+- 🤖 **Embedded Systems Enthusiast**: My toolkit also includes Arduino and Raspberry Pi, adding an extra layer of versatility to my skill set.
 
 <div id="head_" align ="center">
   <img src="https://i.imgur.com/0zT5B10.gif" width ="520"/>
