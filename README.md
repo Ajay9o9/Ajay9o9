@@ -3,7 +3,7 @@
 
 ## Hello, World! 👋
 
-I'm **Ajay K V**, 
+I'm **Ajay K V** but you can call me AJ, 
 
 ## About Me 💬
 - 🛠 **What i do**: From Web Development to Android, and currently loving dart as a **Senior/Lead Flutter Developer**.
