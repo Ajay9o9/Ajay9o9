@@ -5,7 +5,7 @@
 
 I'm **Ajay K V** but you can call me AJ, 
 
-## About Me 💬
+## About Me 
 - 🛠 **What i do**: From Web Development to Android, and currently loving dart as a **Senior/Lead Flutter Developer**.
   
 - 📈 **Experience**: With 7 years of coding and 5 years in the professional world.
