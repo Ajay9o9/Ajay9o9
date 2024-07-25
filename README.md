@@ -1,24 +1,18 @@
 ## Hi there 👋
 
+I'm **Ajay K V**, but you can call me AJ.
 
-## Hello, World! 👋
-
-I'm **Ajay K V** but you can call me AJ, 
-
-## About Me 
-- 🛠 **What i do**: From Web Development to Android, and currently loving dart as a **Senior/Lead Flutter Developer**.
+- 🛠 **Developer**: Specializing in Flutter, with backend experience in Laravel, Django, and Node.js. Also exploring Dart for backend.
   
-- 📈 **Experience**: With 7 years of coding and 5 years in the professional world.
+- 🌐 **Frontend**: Worked with React, Angular, Streamlit, and Gradio.
   
-- 🌐 **Love Backend**: Laravel, Django, and a sprinkle of Node.js—my backend skills (expermienting with dart as backend as well).
+- 🤖 **AI Enthusiast**: Passionate about Machine Learning and AI, with a recent PGP completion. [AI-Portfolio](https://eportfolio.mygreatlearning.com/ajay-k-v)
   
-- 🖥 **Love Frontend**: I have had experience with React Js, Angular Js on JS side while Streamlit and Gradio are my Pythonic choices.
+- 🎙 **Knowledge Sharing**: Visit my YouTube channel, [CodingSalad](https://www.youtube.com/@codingsalad/videos).
   
-- 🤖 **AI Enthusiast(Loves matrices)**: I'm currently diving into the realms of Machine Learning and Artificial Intelligence. I recently completed my PGP on this [AI-Portfolio](https://eportfolio.mygreatlearning.com/ajay-k-v).
+- 📚 **Learning**: Currently focusing on math and deepening my understanding of ML/DL.
   
-- 🎙 **Knowledge Sharing**: Visit my YouTube channel, [CodingSalad](https://www.youtube.com/@codingsalad/videos), where i like to share what i love.
-  
-- 🤖 **Embedded Systems Enthusiast**: My toolkit also includes Arduino and Raspberry Pi, adding an extra layer of versatility to my skill set, i'm a huge fan of DIY electronics.
+- 🔧 **DIY Electronics**: Enjoy working with Arduino and Raspberry Pi.
 
 <div id="head_" align ="center">
   <img src="https://i.imgur.com/0zT5B10.gif" width ="520"/>
@@ -32,7 +26,6 @@ I'm **Ajay K V** but you can call me AJ,
 &nbsp;
 <div>
   
-- 🌱 I’m currently learning maths diving deep into world of statistics, probabilities and calculus.  
 - 💬 Ask me about Flutter, Web development, Python and Machine Learning
 - 📫 How to reach me: Below Links
 
