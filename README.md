@@ -28,7 +28,7 @@ I'm **Ajay K V** (AJ), a Tech Lead and full-stack developer with 8 years of expe
 </div>
 <div align="center">
 
-  ### Find me on:
+  Find me on:
    <a href="https://www.linkedin.com/in/iamajaykv/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;</a>
    <a href="https://www.youtube.com/channel/UC2NM7zDY40Y7djGgk4GP4iA">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)&nbsp;</a>
    <a href="https://twitter.com/ItsmeAjayKV">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)&nbsp;</a>
